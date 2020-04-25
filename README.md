@@ -1,5 +1,6 @@
 Zhanbolat and Adil CSSE-1703K teamwork - Database
-we did according to these instructions:
+
+We did according to these instructions:
 <br>
 https://docs.microsoft.com/en-us/aspnet/core/tutorials/first-mvc-app/adding-model?view=aspnetcore-3.1&tabs=visual-studio
 <br>
