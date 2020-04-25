@@ -1,4 +1,4 @@
-# iitudb
+Zhanbolat and Adil CSSE-1703K teamwork - Database
 we did according to these instructions:
 <br>
 https://docs.microsoft.com/en-us/aspnet/core/tutorials/first-mvc-app/adding-model?view=aspnetcore-3.1&tabs=visual-studio
@@ -10,6 +10,4 @@ and migrate. And when we found the error, we were not able to remove the old con
 make a new project again, but we don’t have time so you can check this code. We will change the names of Models to the next
 part.
 <br>
-Zhanbolat and Adil CSSE-1703K
-<br>
-teamwork - Database
+
