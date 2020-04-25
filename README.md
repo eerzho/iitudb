@@ -1,5 +1,7 @@
 Erkinbay Zhanbolat and Kaliyev Adil 
+
 CSSE-1703K
+
 teamwork - Database
 
 We did according to these instructions:
